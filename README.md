@@ -1,6 +1,6 @@
 <div align="center" style="padding:22px 0 10px;">
   <h1 style="margin:0 0 6px;font-size:34px;line-height:1.15;">
-    Detecting Multiclass Depressive Tweets with LSTM
+    Detecting Multiclass Depressive Tweets with BERT
   </h1>
   <p style="margin:0;color:#6a737d;">
     Contextual vs Non-Contextual Word Embeddings (BERT vs FastText vs Word2Vec)
